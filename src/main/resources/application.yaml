@@ -1,0 +1,6 @@
+spring:
+  http:
+    converters:
+      preferred-json-mapper: gson
+  gson:
+    disable-html-escaping: false
